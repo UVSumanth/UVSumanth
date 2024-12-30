@@ -4,7 +4,7 @@
 - 🤝 I’m looking to collaborate on Real-time cybersecurity projects, vulnerability assessments, and Android application development.
 - 📫 How to reach me
   - Linkedin - https://www.linkedin.com/in/veera-sumanth-uppala-a8b03a169/ |
-  - Email - veerasumanthuppala@gmail.com
+  - Email    - veerasumanthuppala@gmail.com
 
 
 <!---
